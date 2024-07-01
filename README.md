@@ -40,6 +40,8 @@
   <a href="https://www.python-poetry.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/itsmesivaa/itsmesivaa/assets/54579777/43018cd1-b900-48b7-ac72-f4f3a0edf781" alt="aws" width="60" height="60"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmesivaa&show_icons=true&locale=en&layout=compact" alt="itsmesivaa" /></p>
+<!--
+#<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmesivaa&show_icons=true&locale=en&layout=compact" alt="itsmesivaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmesivaa&" alt="itsmesivaa" /></p>
+--> 
